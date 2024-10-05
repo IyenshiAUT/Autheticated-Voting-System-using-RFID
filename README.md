@@ -2,7 +2,7 @@
 
 <html>
  <body>
-  <img src = ""/>
+  <img src = "img.jfif"/>
  </body>
 </html>
  
