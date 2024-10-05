@@ -1,4 +1,10 @@
 𝐑𝐅𝐈𝐃-𝐁𝐚𝐬𝐞𝐝 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐕𝐨𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦
+
+<html>
+ <body>
+  <img src = ""/>
+ </body>
+</html>
  
  𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘:
 In today’s world, security and accuracy in voting processes are more important than ever. This project aims to address these concerns by leveraging RFID technology to ensure that each voter can cast their vote securely and only once.
